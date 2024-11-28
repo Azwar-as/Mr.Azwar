@@ -1,4 +1,4 @@
-# Mr.Azwar
+
 # 💫 About Me:
 Hi there! 👋<br>I'm Azwar, a passionate Front-End Developer in the making, with aspirations to become a professional Full Stack Developer and work abroad 🌏. I'm currently a Computer Science student at Universitas Dian Nuswantoro, diving deep into the worlds of web development, mobile development, and emerging tech.<br><br>💻 What I do:<br> - Crafting sleek and responsive web designs using HTML, CSS, JavaScript, Bootstrap, and Tailwind.<br> - Building engaging user interfaces with a touch of animation and modern design principles.<br> - Exploring backend technologies to expand my stack and bring full-fledged projects to life.<br><br>🚀 What drives me:<br> - A love for creating impactful digital experiences.<br> - Constantly learning and challenging myself to grow in the tech ecosystem.<br> - Dreaming big to collaborate with global teams and leave a mark in the tech world.<br><br>🎯 On my journey:<br>I’m currently working on my personal portfolio website, experimenting with dark mode toggles, scroll animations, and making it pop with Swiper.js.<br><br><br>
 
